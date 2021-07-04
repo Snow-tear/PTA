@@ -1,0 +1,1 @@
+ ffmpeg -i  %1   "%~pn1.png" 
