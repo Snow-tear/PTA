@@ -1,4 +1,4 @@
-此群的**溯源及归档计划(le Projet de la Traçabilité et de l'Archivage，简称PTA计划)**正式启动
+此群的**溯源及归档计划(le Projet de la Traçabilité et de l'Archivage，简称PTA计划)** 正式启动
 
 **PTA计划**的首个项目为群名的溯源及归档，本项目初期包含内容为：时间顺的各群名，修改时间及修改原因，欢迎补充
 
